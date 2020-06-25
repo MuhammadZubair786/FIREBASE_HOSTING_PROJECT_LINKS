@@ -12,3 +12,6 @@ saylani firebase Assigment Sec D :
 	
 RESUTRANT WEBSITE :
 	https://resutrant-website.web.app/index.html
+	
+calculator App:
+https://calculator-app-9cb6a.web.app
